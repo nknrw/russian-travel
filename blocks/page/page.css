@@ -1,6 +1,7 @@
 .page {
     background-color: #2A2C2F;
     min-width: 1280px;
-    font-family: inter;
+    font-family: 'Inter';
     margin: 0;
+    color: #fff;
 }
