@@ -35,13 +35,3 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
-
-/* html {
-    min-width: fit-content;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-} */
-
-* {
-    outline: 1px red solid;
-}
