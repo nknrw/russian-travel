@@ -5,3 +5,11 @@
     display: flex;
 }
 
+<<<<<<< HEAD
+=======
+/* @media screen and (max-width: 1023px) {
+    .header {
+        width: calc(100% - 24px * 2);
+    }
+} */
+>>>>>>> f89ec79dc43650c0c3505845e85082f7f2c189bc
