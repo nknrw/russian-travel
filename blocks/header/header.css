@@ -1,7 +1,12 @@
 .header {
-    min-width: 1184px;
+    /* width: calc(100% - 48px * 2); */
     height: 52px;
-    margin: 28px 48px 0 48px;
+    margin: 28px auto 0 auto;
     display: flex;
-    /* justify-content: space-between; */
 }
+
+/* @media screen and (max-width: 1023px) {
+    .header {
+        width: calc(100% - 24px * 2);
+    }
+} */

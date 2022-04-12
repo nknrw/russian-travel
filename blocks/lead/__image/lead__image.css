@@ -1,5 +1,6 @@
 .lead__image {
-    width: 984px;
+    max-width: 100%;
+    min-width: 768;
     /* height: 615px; */
     margin: 64px auto 0 auto;
     display: block;
