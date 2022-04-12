@@ -1,4 +1,17 @@
 .content {
-    /* max-width: 984px;
-    margin: 0 auto 0 auto; */
+    /* max-width: 1184px; */
+    margin: 0;
 }
+
+/* @media screen and (max-width: 1279px) {
+    .content {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .content {
+        max-width: 768px;
+        margin: 0
+    }
+} */
