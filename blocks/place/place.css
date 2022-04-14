@@ -5,7 +5,7 @@
     width: fit-content;
     row-gap: 48px;
     column-gap: 40px;
-    margin: 80px auto 0 auto
+    margin: 80px auto 0 auto;
 }
 .place:first-of-type {
     margin-top: 0;
