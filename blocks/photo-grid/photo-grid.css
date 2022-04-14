@@ -29,6 +29,6 @@
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(12, 1fr);
         margin: 64px 16px 0 16px;
-        gap: ;
+        gap: 12px;
     }
 }
