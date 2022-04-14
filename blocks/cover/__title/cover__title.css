@@ -9,3 +9,11 @@
     max-width: 560px;
     margin: 0 auto 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+    .cover__title {
+        font-size: 32px;
+        line-height: 1.09;
+        max-width: 288px;
+    }
+}

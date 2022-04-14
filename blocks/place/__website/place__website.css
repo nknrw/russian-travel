@@ -4,3 +4,9 @@
     justify-content: flex-end;
     column-gap: 12px;
 }
+
+@media screen and (max-width: 768px) {
+    .place__website {
+        margin: 0 16px 0 16px;
+    }
+}
