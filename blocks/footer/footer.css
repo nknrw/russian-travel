@@ -4,20 +4,21 @@
     margin: 92px auto 24px auto;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1200px) {
     .footer {
         margin: 92px 48px 24px 48px;
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 900px) {
     .footer {
         margin: 88px 24px 24px 24px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .footer {
+        margin: 64px auto 24px 16px;
         flex-direction: column;
     }
 }

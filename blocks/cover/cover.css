@@ -4,13 +4,13 @@
     position: relative;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 900px) {
     .cover {
         margin: 92px 0 0 0;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .cover {
         margin: 88px 0 0 0;
     }

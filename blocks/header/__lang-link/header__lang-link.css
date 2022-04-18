@@ -8,16 +8,7 @@
     transition: .5s;
 }
 
-.header__lang-link:first-of-type {
-    text-decoration: underline;
-    margin-left: auto;
-}
-
-.header__lang-link:hover {
-    opacity: 0.3;
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 1.11;

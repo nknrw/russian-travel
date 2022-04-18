@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .place__text {
         margin: 0 16px 0 16px;
     }
