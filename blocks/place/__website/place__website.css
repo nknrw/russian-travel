@@ -5,7 +5,7 @@
     column-gap: 12px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .place__website {
         margin: 0 16px 0 16px;
     }

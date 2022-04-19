@@ -2,16 +2,16 @@
     width: 100%;
     max-width: 984px;
     margin: 64px auto 0 auto;
-    display: block;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1279px) {
     .lead__image {
+        max-width: 100%;
         margin: 56px auto 0 auto;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .lead__image {
         margin: 40px auto 0 auto;
     }

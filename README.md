@@ -5,4 +5,6 @@
 * Адаптивная верстка по макету.
 * Использование Grid Layout.
 
+[Ссылка](https://nknrw.github.io/russian-travel/index.html) на проект на Github Pages
+
 Андрей Никоноров, 2022.

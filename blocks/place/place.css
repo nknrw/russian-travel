@@ -11,20 +11,20 @@
     margin-top: 0;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1279px) {
     .place {
-        row-gap: 32px;
+        column-gap: 32px;
     }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1023px) {
     .place {
-        row-gap: 28px;
+        column-gap: 28px;
         margin: 72px auto 0 auto;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .place {
         margin: 50px auto 0 auto;
         grid-template-columns: repeat(1, 1fr);
